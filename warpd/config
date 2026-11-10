@@ -4,8 +4,8 @@ left: a
 right: d
 scroll_down: r
 scroll_up: e
-speed: 50
-acceleration: 300
+speed: 60
+acceleration: 500
 screen_activation_key: A-M-Tab
 screen: Tab
 scroll_speed: 300
@@ -16,7 +16,9 @@ normal_system_cursor: 0
 indicator: none
 normal_blink_interval: 0
 hint_chars: abcdefghijklmnoprstuvwxyz
-grid_keys: u o m .
-grid_exit: q
-buttons: j k l
+grid_keys: q e z c
+grid_exit: g
+buttons: , . /
 hint2_chars: qweasdzxc
+screen_chars: kl;
+
